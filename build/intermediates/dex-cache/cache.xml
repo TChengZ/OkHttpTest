@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Project\OkHttpTest\app\libs\okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="E:\Project\OkHttpTest\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0-a7d790510a30e94386c9096d0904b20e6e3293c3.jar" />
+    </item>
+    <item
+        jar="E:\Project\OkHttpTest\app\libs\okio-1.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="E:\Project\OkHttpTest\app\build\intermediates\pre-dexed\debug\okio-1.4.0-5e0d1fd9cadf22a45f81c97c33374d47a4c71235.jar" />
+    </item>
+
+</items>
